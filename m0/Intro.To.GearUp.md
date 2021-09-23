@@ -22,9 +22,9 @@ Create a gist on Github and reflect (4-6 sentences) on the following questions:
 * What were your reflections from the video?
   - I thought the video was quite interesting, especially the part that mentioned the bias people have when they design a product. I never really thought about the fact that when a product is designed for a specific user, it is usually incorrect. I can see how this is incredibly important both in coding and in product design. 
 * In what ways have you examined your implicit biases before coming to Turing?
- - I never really took the time to examine my implicit biases before coming to Turing. It is definitely something I will need to reflect more on. 
+  - I never really took the time to examine my implicit biases before coming to Turing. It is definitely something I will need to reflect more on. 
 * What kind of software do you imagine building in the future? How will understanding biases (or avoiding understanding biases) impact your products?
- - I hope to build software that is able to reach a broad user base. I think it would be very rewarding to have software that i've built being used in various parts of the world. I feel like it would be incredibly important to understand biases when trying to market products to a global audience because of the need to try and make something universal that appeals to many differnt cultures. 
+  - I hope to build software that is able to reach a broad user base. I think it would be very rewarding to have software that i've built being used in various parts of the world. I feel like it would be incredibly important to understand biases when trying to market products to a global audience because of the need to try and make something universal that appeals to many differnt cultures. 
 
 #### READ
 
