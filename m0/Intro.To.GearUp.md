@@ -37,6 +37,10 @@ On your same gist, reflect on the following quesitons:
 <b>“All of us live complex lives that require a great deal of juggling for survival,” Carty and Mohanty said in an email. “What that means is that we are actually living at the intersections of overlapping systems of privilege and oppression.”</b>
 
  * When you consider the way you move through the world, what elements of your identity are you most aware of on a daily basis?
+ - I would say that my gender and my age are the most apparent element of my identity that i'm most are of on a daily basis. I also am aware of the my ethnic identity, but I believe that in Colorado that is less of an issue compared to when I lived in Dallas.
  * What strengths does your identity give you?  How will you utilize those at Turing?
+ - I would say that my identity gives me strength in that it allowed me to have some experiences that I would not normally have. I feel like at turing,students being able to provide their personal experiences is what makes the Turing education so impactful. 
  * How do you think you could value the identies of those around you to bring out their strengths at Turing? Has there been a time where you were able to advocate or include people around you?
+ - I think the best way to bring out the identities of those around you is to just listen. I try to include people around me on a daily basis, even if its saying hello in the elevator. The best times i've had have been when people from all different backgrounds are together. 
  * How will your strengths impact you as a teammate?  What will you bring to your cohort? 
+I think my strengthes of listening and trying to be inclusive allows me to be a good teammate because effective communication is the foundation of any great team. I hope to bring a different perspective to my cohort, coming from a trading background and also my experience living in multiple countries. 
